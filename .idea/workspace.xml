@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba14cba0-edcc-42a0-8bd1-2f6c9c704234" name="Changes" comment="Удаление элемента и его повторений из массива">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interactive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interactive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="ba14cba0-edcc-42a0-8bd1-2f6c9c704234" name="Changes" comment="Добавлено диалоговое окно :)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +62,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661514131092</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Добавлено диалоговое окно">
+      <created>1661520810119</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661520810119</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Добавлено диалоговое окно :)">
+      <created>1661520995003</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661520995003</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +92,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Удаление элемента и его повторений из массива" />
-    <option name="LAST_COMMIT_MESSAGE" value="Удаление элемента и его повторений из массива" />
+    <MESSAGE value="Добавлено диалоговое окно" />
+    <MESSAGE value="Добавлено диалоговое окно :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлено диалоговое окно :)" />
   </component>
 </project>
