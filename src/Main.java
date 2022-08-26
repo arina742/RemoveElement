@@ -6,15 +6,19 @@ public class Main
 {
     public static void main(String[] args) {
         int[] array = new int[]{5, 4, 5, 1, 11, 93, 5, 12, 8, 9, 5, 8, 12};
+        showArray(array);
+        System.out.println("Массив после удаления элемента(ов)");
         System.out.println(Arrays.toString(removeElement(array)));
     }
 
+    public static void showArray(int[] array)
+    {
+        System.out.println("Массив до удаления элемента(ов)");
+        System.out.println(Arrays.toString(array));
+    }
     public static int[] removeElement(int[] array) {
-        System.out.print("Введите значение, которое надо удалить из массива: ");
         int count = 0;
-        int elementForDelete;
-        Scanner in = new Scanner(System.in);
-        elementForDelete = in.nextInt();
+        int elementForDelete = Interactive.dialogBoxForDelete();
         for (int i = 0; i < array.length; i++) {
             if (array[i] == elementForDelete) {
                 count++;
